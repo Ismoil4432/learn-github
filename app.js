@@ -1,0 +1,1 @@
+console.log('This is written in app.js for master branch');
