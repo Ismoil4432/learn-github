@@ -1,0 +1,1 @@
+console.log('This is written in course.js for course branch');
