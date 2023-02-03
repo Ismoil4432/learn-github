@@ -1,0 +1,1 @@
+console.log('This is written in fruit.js for fruit branch');
